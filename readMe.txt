@@ -1,5 +1,3 @@
-Name: Sunand Iyer
-UNI: sri2117
 
 Disclaimer: 
 All functions assume that reading in one line is equal to one row of the image.
